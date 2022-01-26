@@ -1,0 +1,1 @@
+Simulations of the Digital Sideband Separation model. It uses the data from a simulated Hybrid-Mixer scheme in AWR. To simulate we used two different data sets, one to calculate the correction factors and the other one to test the data and actually calculate the SRR
